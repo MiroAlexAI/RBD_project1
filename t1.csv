@@ -1,0 +1,6 @@
+From,Reliability1,To,Reliability2
+a,0.9,b,0.9
+b,0.9,c,0.9
+c,0.9,c2,1.0
+a2,0.9,b2,0.9
+b2,0.9,c,0.9
